@@ -42,4 +42,9 @@ The analysis navigated the complexity of real-world data where "clean" clusters 
     *   **PCA Limitation:** Principal Component Analysis explained 65% of variance but struggled with non-linear boundaries.
     *   **t-SNE Optimization:** By tuning **perplexity to 20** (better for capturing global structure in large datasets), the model successfully revealed 5 distinct "cores," visually validating the segmentation strategy [file:56].
 
+## 📂 Project Structure
 
+```text
+├── notebooks/
+├── requirements.txt        # Dependencies
+└── README.md               # Documentation
