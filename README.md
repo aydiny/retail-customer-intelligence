@@ -2,6 +2,9 @@
 
 > **Unlocking revenue by transforming 950k+ transactions into 5 actionable customer personas using K-Means and t-SNE.**
 
+<img width="1024" height="501" alt="image" src="https://github.com/user-attachments/assets/571a318f-ca1e-48a7-a5d0-81a91aaca9f8" />
+
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![ML](https://img.shields.io/badge/ML-Scikit_Learn-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-green.svg)
