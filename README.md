@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-green.svg)
 
 ## 💼 Executive Summary
-In a dataset of **951,668 transactions**, traditional "spray and pray" marketing was failing to engage high-value clients. This project moved beyond basic demographics to implement **Behavioral Segmentation**. 
+In a dataset of **951,668 transactions**, traditional "spray and pray" marketing is likely to engage high-value clients. This project moved beyond basic demographics to implement **Behavioral Segmentation**. 
 
 By engineering features like **Recency, Frequency, and Monetary Value (RFM)** and applying unsupervised learning, the analysis identified **5 distinct customer cohorts**. The most critical finding was the identification of a **"VIP Champion"** segment—a small group generating outsized revenue—who were previously receiving generic treatment.
 
